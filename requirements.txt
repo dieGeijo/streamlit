@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib.pyplot
+matplotlib.colors
+seaborn
+mplsoccer
+mplsoccer.pitch
