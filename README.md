@@ -1,1 +1,1 @@
-I don't use this profile anymore, please check https://github.com/dieGeijo8. 
+I don't use this profile anymore, please visit the new one https://github.com/dieGeijo8. 
