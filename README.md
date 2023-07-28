@@ -1,1 +1,1 @@
-I don't use this profile anymore, please check @dieGeijo8. 
+I don't use this profile anymore, please check dieGeijo8. 
